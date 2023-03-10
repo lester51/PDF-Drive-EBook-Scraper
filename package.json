@@ -1,0 +1,28 @@
+{
+  "name": "pdfdrive-ebook-scraper",
+  "version": "3.0.0",
+  "description": "Get and Download free Ebooks online using PDF-Drive. This Project was built using Axios, Cheerio and PDF Drive Website.",
+  "main": "PDFdrive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ebooks",
+    "ebook",
+    "free-ebook",
+    "ebook-download",
+    "pdfdrive",
+    "pdfdrive-ebooks",
+    "pdfdrive-scraper"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lester51/PDF-Drive-EBook-Scraper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lester51/PDF-Drive-EBook-Scraper/issues"
+  },
+  "homepage": "https://github.com/lester51/PDF-Drive-EBook-Scraper",
+  "author": "HackMeSenpai",
+  "license": "MIT Licence"
+}
