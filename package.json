@@ -1,6 +1,6 @@
 {
   "name": "pdfdrive-ebook-scraper",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "Get and Download free Ebooks online using PDF-Drive. This Project was built using Axios, Cheerio and PDF Drive Website.",
   "main": "PDFdrive.js",
   "scripts": {

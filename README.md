@@ -30,12 +30,15 @@ console.log(res2)
 //Success response for findEbook()
 [
   {
+    ebookTitle: 'Some ebook title.',
     ebookUrl: 'https://www.pdfdrive.com/javascript-javascript-for-beginners-learn-javascript-programming-with-ease-in-half-the-time-everything-about-the-language-coding-programming-and-web-pages-you-need-to-know-e158299863.html'
   },
   {
+    ebookTitle: 'Some ebook title.',
     ebookUrl: 'https://www.pdfdrive.com/javascript-javascript-programming-for-absolute-beginners-ultimate-guide-to-javascript-coding-javascript-programs-and-javascript-language-4-e195096889.html'
   },
   {
+    ebookTitle: 'Some ebook title.',
     ebookUrl: 'https://www.pdfdrive.com/javascript-javascript-for-beginners-learn-javascript-programming-with-ease-in-half-the-time-everything-about-the-language-coding-programming-and-web-pages-you-need-to-know-e195090778.html'
   }
 ]
